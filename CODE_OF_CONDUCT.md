@@ -1,5 +1,6 @@
-# Contributor Covenant Code of Conduct (V2)
+# Contributor Covenant Code of Conduct (V3)
 This line should be removed!
+Anohter line to be removed!
 
 ## Our Pledge
 
